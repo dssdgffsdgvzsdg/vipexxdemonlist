@@ -1,0 +1,18 @@
+{
+    "id": 113443235,
+    "name": "Apocalyptic Trilogy",
+    "author": "APTeam",
+    "creators": [],
+    "verifier": "Jenath",
+    "verification": "https://www.youtube.com/watch?v=JuAf495cjHc&t=67s",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Laser",
+            "link": "https://www.youtube.com/watch?v=u_cGKTqk-6A",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

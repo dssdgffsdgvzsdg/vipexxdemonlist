@@ -1,0 +1,24 @@
+{
+    "id": 113256247,
+    "name": "Collapse",
+    "author": "Nexel",
+    "creators": [],
+    "verifier": "Superjavicon",
+    "verification": "https://youtu.be/lU0bgwqSZaA?si=mpYwrv6HzuXpCe4o",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [ 
+        {
+            "user": "Laser",
+            "link": "https://www.youtube.com/watch?v=1todfyKJbhE",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "wPopoff",
+            "link": "https://www.youtube.com/watch?v=pOnvs9E5xvU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

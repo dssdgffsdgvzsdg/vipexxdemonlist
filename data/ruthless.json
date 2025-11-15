@@ -1,0 +1,24 @@
+{
+    "id": 85612571,
+    "name": "RUTHLESS",
+    "author": "SurJaco",
+    "creators": ["Viper Arctarus", "SurJaco", "Boii", "nCylix", "MothEye", "Vitrial", "Roselyne", "IGenoxide", "Aranda", "Beclan", "Titoalper", "Bli", "Destriv"],
+    "verifier": "kloone",
+    "verification": "https://youtu.be/Zz_bIvpf5yE?si=4AbjKD6Okz6cBCrC",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Tunax",
+            "link": "https://youtu.be/I8emJQYrNL0?si=QmcAFXfqOOWieG02",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "el terror de los travestis",
+            "link": "https://youtu.be/nPHKHd9GIdE?si=-hqOwd-GyYqvhUgK",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

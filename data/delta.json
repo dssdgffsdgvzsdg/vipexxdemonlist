@@ -1,0 +1,36 @@
+{
+    "id": 93917362,
+    "name": "Delta",
+    "author": "Drakosa",
+    "creators": ["Zanna83","Doggie","crumche","Gizbro","ked","Ryder","Novaach","Consuno","enzoliz","MercuryDT","UltraCharge","Drakosa","Artsi","DreamZoneGD","Goob","npesta","Loogiah","Blitzer","DTDom","DiamondSplash","Rynoxious","AppleCr","Tamori","CDMusic","12Kelvin"],
+    "verifier": "Superjavicon",
+    "verification": "https://youtu.be/imNdjDL9iH8?si=DunfgHRqoXaa3YPB",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "stillsouless",
+            "link": "https://youtu.be/fAfzO8nytkY?si=f-6Hot4sq7JIBuq0",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Vorten",
+            "link": "https://www.youtube.com/watch?v=QRcC6DsJ8nw",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Cuatrocientos",
+            "link": "https://youtu.be/tR45OkSMrQw?si=NM4o5SBIY20gaLiT",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "kloone",
+            "link": "https://youtu.be/m53GnS8vWBM?si=JBfwssD2w8yT_zsr",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

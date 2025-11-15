@@ -1,0 +1,24 @@
+{
+    "id": 82544060,
+    "name": "Mayhem",
+    "author": "LordVadercraft",
+    "creators": ["DMSD","Vernam","Konsi","Sauzzeth","vit12","Thrasher","Enely","Vitchrose","Synd"],
+    "verifier": "Cuatrocientos",
+    "verification": "https://youtu.be/WTcVZgSWa30?si=3dPo_mE1gtfs1lTr",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Kole",
+            "link": "https://youtu.be/wB0mgyZi3xk?si=jVJJztNwV84X4w6e",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "wPopoff",
+            "link": "https://www.youtube.com/watch?v=PKCC5xeoHlE",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

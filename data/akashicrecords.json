@@ -1,0 +1,36 @@
+{
+    "id": 58150142,
+    "name": "Akashic Records",
+    "author": "VoTcHi",
+    "creators": ["Sikatsuka", "SyQual", "Netflix", "Vector", "Nisha", "Rainstorm", "zaeus", "Phinix", "IIwapon77II", "Beta Vulgaris", "Zeta", "BeCruX", "Xiko", "Cloud72", "Rainspade", "Unigeny", "LunaDreamer", "Dreaming", "Sepalum", "Rilliss77", "Estachi", "Temp", "Lapis337", "KireiMirai", "Vismuth", "Yonaka", "kmini", "WhiteDwarf", "iEstia", "Seturan"],
+    "verifier": "stillsouless",
+    "verification": "https://www.youtube.com/watch?v=J6PWrFQVYzQ",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "el terror de los travestis",
+            "link": "https://youtu.be/o15_SMDJNRw?si=hbV28rJausZcAemE",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "wPopoff",
+            "link": "https://www.youtube.com/watch?v=b-vVzVBt6aA",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Wolvez",
+            "link": "https://youtu.be/l32d4lcFrCU?si=Jwu8bu4s5dTst0VU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Slaughter",
+            "link": "https://youtu.be/3jKoXRY5s6E?si=-SKWx93GZM6tm-c6",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

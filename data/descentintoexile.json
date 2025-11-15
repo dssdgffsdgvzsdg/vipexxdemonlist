@@ -1,0 +1,48 @@
+{
+    "id": 77518059,
+    "name": "Descent Into Exile",
+    "author": "GrenadeofTacos",
+    "creators": ["Artos", "icedcave", "ViPriN", "GrenadeofTacos", "Riot", "Deadlox", "Theorical", "Pokechatt", "ewop", "maxfs", "Realvet", "Cersia", "Awedsy", "Loogiah", "spcreat", "weoweoteo", "Vermillion"],
+    "verifier": "Laser",
+    "verification": "https://youtu.be/0lt7XcftRXo?si=qzD5X6USIJHQ71Sq",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Slaughter",
+            "link": "https://youtu.be/4ITkQouI2X4?si=NE5h_kQGThs3j2oK",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "stillsouless",
+            "link": "https://youtu.be/LdJWbxTAVv0?si=iKBCXz60WsZddxeN",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "DoSh7t",
+            "link": "https://youtu.be/ULg67MqMQFM?si=G9yfSX5G8CNPKrCT",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "el terror de los travestis",
+            "link": "https://youtu.be/bRafP93w1n4?si=bSkn_oY-91fkVXhd",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Zoink Doink",
+            "link": "https://youtu.be/eGS6inVzYI0?si=yIGClhVWH5FDc-O-",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Wolvez",
+            "link": "https://youtu.be/uxi_gdoLUt8?si=WHXU2p5AkJmeunIw",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

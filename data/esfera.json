@@ -1,0 +1,30 @@
+{
+    "id": 78435955,
+    "name": "Esfera",
+    "author": "SyQual",
+    "creators": ["Sikatsuka", "SyQual", "Netflix", "KeiAs", "Gau", "Galchi", "Nisha", "Gaudium", "Quitora", "Cmel", "Leina", "Molds", "Estachi", "AnGyung", "Temp", "Naimnaro", "GD 3NIV", "Dister K", "Yonaka", "TheCdPre", "Trolla", "Phen", "Redblock1", "iEstia", "Mintjelly", "Mulpan", "Cenos"],
+    "verifier": "Superjavicon",
+    "verification": "https://www.youtube.com/watch?v=UhwpjzyPmv8",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Tunax",
+            "link": "https://www.youtube.com/watch?v=4CsGZS6AQV4",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "kloone",
+            "link": "https://www.youtube.com/watch?v=QWp9ZE5WUsA",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "el terror de los travestis",
+            "link": "https://youtu.be/RBOVz0HvTHA?si=lESRGBJiJb_aN5Wo",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

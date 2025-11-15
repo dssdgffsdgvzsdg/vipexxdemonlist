@@ -1,0 +1,60 @@
+{
+    "id": 81011195,
+    "name": "walter white",
+    "author": "Renn241",
+    "creators": ["Renn241","GhostVandalf"],
+    "verifier": "Laser",
+    "verification": "https://www.youtube.com/watch?v=KzK62PkWOJ0&source_ve_path=MjM4NTE",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Cuatrocientos",
+            "link": "https://youtu.be/KEJoy8HNg5Y?si=NswqGCONMd_X56Kf",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "GGonop",
+            "link": "https://www.youtube.com/watch?v=V8b3_KStN4Y",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Kole",
+            "link": "https://youtu.be/5n9V79GpSjg?si=IeSQdQ8STvZ1ng3Q",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "wPopoff",
+            "link": "https://www.youtube.com/watch?v=7D5SBFb-kj8",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Vorten",
+            "link": "https://www.youtube.com/watch?v=-yJuR4vU8SQ",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "el terror de los travestis",
+            "link": "https://youtu.be/uHRq1RVkpZo?si=xuz-g3hcPq1xW5DE",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Mizukii",
+            "link": "https://youtu.be/gkLpVPkF4JM?si=CNyEAh4xvuV7Ig3K",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Serpentical",
+            "link": "https://youtu.be/AfvPMsSVD5U?si=HknUGxyaZPH9aibj",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

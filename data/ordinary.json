@@ -1,0 +1,42 @@
+{
+    "id": 105593215,
+    "name": "ORDINARY",
+    "author": "vit12",
+    "creators": ["vit12","GustavoV3","HugoLa","RafaBirds"],
+    "verifier": "wPopoff",
+    "verification": "https://www.youtube.com/watch?v=4QiHP3jpGnk",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Superjavicon",
+            "link": "https://youtu.be/9gScC3ZqAMM?si=nN_w3vfx5M9Tzvu8",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "kloone",
+            "link": "https://youtu.be/_Oj49Df5aDM?si=yEhS9VB2DXUpBoX9",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Gamingbyte",
+            "link": "https://youtu.be/uUtXmO0Be-c?si=HcjGMEr88nzyiV7V",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Mizukii",
+            "link": "https://youtu.be/fvTqmv8qixQ?si=mu4ThjMzhzMJ9tMe",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Slaughter",
+            "link": "https://youtu.be/e9PofcF1gqs?si=1YtjDcFHSNIDukmQ",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

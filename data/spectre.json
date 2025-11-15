@@ -1,0 +1,30 @@
+{
+    "id": 110815379,
+    "name": "Spectre",
+    "author": "xander556",
+    "creators": ["Osiris GD", "YakobNugget", "Gizbro", "Striked", "icedcave", "Helpegasus", "Endlevel", "GD Iris", "GrenadeofTacos", "Moosh", "Kllnex", "Dilw0nk", "Deadlox", "BrianTheBurger", "ZeroSR", "MercuryDT", "Polli", "Pokechatt", "Darwin", "Skrypto", "Truee Dee Fabian", "nyab", "Atomic", "nwolc", "Cersia", "Kakemancool", "CuLuC", "Zeronium", "Artu", "ZephiroX", "Blitzer", "TheShoot", "xander556"],
+    "verifier": "SerVax",
+    "verification": "https://youtu.be/nJFpBYqGWQM?si=aWjdpC0GrMjPvuzo",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Laser",
+            "link": "https://www.youtube.com/watch?v=tjEta75_HDo",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "wPopoff",
+            "link": "https://www.youtube.com/watch?v=EOcu-hsEPrk",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Vorten",
+            "link": "https://www.youtube.com/watch?v=NcQrReC74R8",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

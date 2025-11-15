@@ -1,0 +1,18 @@
+{
+    "id": 95851008,
+    "name": "Eyes in the Water",
+    "author": "nothawkyre",
+    "creators": ["darksteelflame", "ImMaxX1", "skywalker14","Bli","nothawkyre"],
+    "verifier": "lenii",
+    "verification": "https://youtu.be/BAcYnnuDnCA?si=15FDBXQQ3kYrA7yH",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Vorten",
+            "link": "https://www.youtube.com/watch?v=bK2vBIyzCg8",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

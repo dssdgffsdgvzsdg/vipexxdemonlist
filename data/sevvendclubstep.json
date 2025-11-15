@@ -1,0 +1,30 @@
+{
+    "id": 120255728,
+    "name": "Sevvend Clubstep",
+    "author": "CherryTeam",
+    "creators": [],
+    "verifier": "Vorten",
+    "verification": "https://www.youtube.com/watch?v=TvA8EJTJFCc",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "fallen",
+            "link": "https://www.youtube.com/watch?v=TkhcgB9uxMs",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "wPopoff",
+            "link": "https://www.youtube.com/watch?v=Z31bQBTrHL4",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Slaughter",
+            "link": "https://youtu.be/Bua14f9ozcs?si=sLadeAuvddnj3zCy",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

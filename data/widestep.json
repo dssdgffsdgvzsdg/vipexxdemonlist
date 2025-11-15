@@ -1,0 +1,44 @@
+{
+    "id": 69289606,
+    "name": "Widestep",
+    "author": "Demishio",
+    "creators": ["Demishio"],
+    "verifier": "cudby",
+    "verification": "https://youtu.be/XPQAUD_4Exw?si=VqyxrAqkzsTLwV09",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "tiredfish",
+            "link": "https://youtu.be/71MHaIWzeD0?si=gMTL_DSTjTCrgeCI",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "stillsouless",
+            "link": "https://youtu.be/mhf2w-vpnIg?si=m7L8snDVeFgknOeo",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Vorten",
+            "link": "https://www.youtube.com/watch?v=WHRDrslNY5E",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "wPopoff",
+            "link": "https://www.youtube.com/watch?v=mS7NCxv3fVY",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "ROZE",
+            "link": "https://youtu.be/Gqyrhqr32Go?si=wQOLfcOnZEcN136d",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
+
+

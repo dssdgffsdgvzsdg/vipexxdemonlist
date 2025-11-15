@@ -1,0 +1,24 @@
+{
+    "id": 108708033,
+    "name": "Coalescence",
+    "author": "amplitron",
+    "creators": ["slayer","Kaza","amplitron","pixll1","notes"],
+    "verifier": "Superjavicon",
+    "verification": "https://youtu.be/CKODUGFStsQ?si=scupAZ4AAsNadfoj",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "wPopoff",
+            "link": "https://www.youtube.com/watch?v=nXt63kG-dX0",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Slaughter",
+            "link": "https://youtu.be/wc1QVpuQ3Rs?si=xFuYNwipXzZcqKQq",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

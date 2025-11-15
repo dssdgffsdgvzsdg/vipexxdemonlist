@@ -1,0 +1,24 @@
+{
+    "id": 93155813,
+    "name": "Rigel",
+    "author": "Dan2D",
+    "creators": [],
+    "verifier": "Cuatrocientos",
+    "verification": "https://www.youtube.com/watch?v=K2SGGHPLX70",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Slaughter",
+            "link": "https://www.youtube.com/watch?v=9ytCQABY49A",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "wPopoff",
+            "link": "https://www.youtube.com/watch?v=uQM91PJetKk",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

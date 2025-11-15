@@ -1,0 +1,30 @@
+{
+    "id": 94969889,
+    "name": "Belladonna",
+    "author": "CherryTeam",
+    "creators": ["Vernam","Itami"],
+    "verifier": "GGonop",
+    "verification": "https://www.youtube.com/watch?v=qtt5EehN4fc",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "kloone",
+            "link": "https://youtu.be/LA8tLLdOBzI?si=6fhqw8Ht_9vWfwAT",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Cuatrocientos",
+            "link": "https://youtu.be/-QXEciedqPU?si=SC3GVPPQCZEfbkBq",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "wPopoff",
+            "link": "https://www.youtube.com/watch?v=FDKjmc1UP4w",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "id": 89496627,
+    "name": "Avernus",
+    "author": "PockeWindfish",
+    "creators": ["BoBo", "SyQual", "deactive", "GD Iris", "Zenn", "Loolycat", "Nidro", "Deadlox", "TriplasH", "Realvet", "Woom", "El3ctr0", "Zipixbox", "Kyhros"],
+    "verifier": "Diamond",
+    "verification": "https://www.youtube.com/watch?v=oEFB-ZrhMmM",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "SerVax",
+            "link": "https://www.youtube.com/watch?v=s4LJd1WsPos",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "A6",
+            "link": "https://www.youtube.com/watch?v=FifpSVGGq1U",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "wPopoff",
+            "link": "https://www.youtube.com/watch?v=-ynbIhRflw8",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Abdieldevil",
+            "link": "https://www.youtube.com/watch?v=KqJW42qq-7c&t=2s",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "moliklee",
+            "link": "https://www.youtube.com/watch?v=lXgcuhWiThE",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "ROZE",
+            "link": "https://www.youtube.com/watch?v=5qAiQ_v-SC4",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "fallen",
+            "link": "https://youtu.be/toLsDvVv4Mc?si=9N2lU9flQ89rzdS_",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Mizukii",
+            "link": "https://youtu.be/3l4akJem96w?si=sgwn09FL0KtlQ3NK",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

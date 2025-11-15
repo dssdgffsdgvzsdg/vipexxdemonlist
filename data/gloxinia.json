@@ -1,0 +1,18 @@
+{
+    "id": 110038200,
+    "name": "Gloxinia",
+    "author": "solarion",
+    "creators": ["cleangame", "Graded", "solarion", "Ryan LC", "Aeidux", "Cyclic", "Isane", "Yonaka", "GDHand", "valentine", "Motu", "Mulpan"],
+    "verifier": "Cuatrocientos",
+    "verification": "https://www.youtube.com/watch?v=cqGMCO3l6A0",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Slaughter",
+            "link": "https://youtu.be/KDFdNYny7ic?si=cu9BmXbjCnWGp29g",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

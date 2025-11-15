@@ -1,0 +1,20 @@
+{
+    "id": 105748155,
+    "name": "Checked Steam",
+    "author": "gruzy",
+    "creators": ["gruzy"],
+    "verifier": "CoffeeChips",
+    "verification": "https://youtu.be/TEsziEvj0ik?si=78RDtvghbx0sZV9B",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Slaughter",
+            "link": "https://youtu.be/ivkyi2uqTLs?si=zcYDGxSRrtFFHZak",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
+
+

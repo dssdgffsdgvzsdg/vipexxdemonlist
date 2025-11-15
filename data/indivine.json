@@ -1,0 +1,18 @@
+{
+    "id": 112586799,
+    "name": "Indivine",
+    "author": "MercuryDT",
+    "creators": ["Walroose", "wokecat", "MercuryDT", "Xolarzz", "Blankb", "AlrexX"],
+    "verifier": "Laser",
+    "verification": "https://youtu.be/GoEkc38Xu1c?si=TZZ3yRL15s-UT7kn",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+    {
+            "user": "Decibel",
+            "link": "https://youtu.be/uhDZb9-vBH0?si=HlaWh7REtNi2YBT9",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

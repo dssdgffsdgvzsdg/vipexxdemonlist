@@ -1,0 +1,84 @@
+{
+    "id": 52310333,
+    "name": "Lucid Nightmares",
+    "author": "CairoX",
+    "creators": ["DonutTV", "CairoX"],
+    "verifier": "Wooshi",
+    "verification": "https://youtu.be/G7hBE5qWx6M",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "rori",
+            "link": "https://www.youtube.com/watch?v=405Am4osL3c",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Teno",
+            "link": "https://www.youtube.com/watch?v=tMt0iwAd0Jk",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Slaughter",
+            "link": "https://www.youtube.com/watch?v=16YUczHQNxA",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Laser",
+            "link": "https://www.youtube.com/watch?v=Tsc4plw4EIM",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "stillsouless",
+            "link": "https://www.youtube.com/watch?v=a_iSy7zgiBI",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Superjavicon",
+            "link": "https://www.youtube.com/watch?v=H5oSGIqzkho",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Ussuri",
+            "link": "https://www.youtube.com/watch?v=0xY_KFvJmkU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "tiredfish",
+            "link": "https://youtu.be/NavVHU6a0ds",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Sevant",
+            "link": "https://youtu.be/50qxJvyGLAY?si=nigR387qUbBD-TJZ",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "el terror de los travestis",
+            "link": "https://youtu.be/sCycPC_XRSo?si=7_BWHgaPF34yxgxA",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Serpentical",
+            "link": "https://youtu.be/4cKrX3-rVQE?si=kCLC9FEEA6hb6RDe",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Wolvez",
+            "link": "https://youtu.be/86K24TBX7v4?si=TWR9RaEU-WU88Owc",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "id": 110913375,
+    "name": "Judgement Knights",
+    "author": "HangerLord",
+    "creators": [],
+    "verifier": "Superjavicon",
+    "verification": "https://www.youtube.com/watch?v=kTdO8RP8rCQ",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Slaughter",
+            "link": "https://www.youtube.com/watch?v=dTLDIkp4sdQ",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "tiredfish",
+            "link": "https://youtu.be/WzhjVvduUrc?si=5oOjc9kiK1o31bFH",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "wPopoff",
+            "link": "https://www.youtube.com/watch?v=31flhwI0rFI",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "moliklee",
+            "link": "https://www.youtube.com/watch?v=PcIUrGEKSZI",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Arouvis",
+            "link": "https://youtu.be/Kzx-Z0nbS-8?si=LHej6_xcGB7Op6F2",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Serpentical",
+            "link": "https://youtu.be/kCHwKTBBxbE?si=3OndzBQpojngVHYL",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

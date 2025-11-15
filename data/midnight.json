@@ -1,0 +1,42 @@
+{
+    "id": 96083028,
+    "name": "Midnight",
+    "author": "zYuko",
+    "creators": [],
+    "verifier": "kloone",
+    "verification": "https://youtu.be/UR1DpUGrW4o?si=aaoGPwKqwv7rG6uF",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Superjavicon",
+            "link": "https://youtu.be/3xehM77c-kE?si=Lui2bYvXxgs3Dwdl",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Slaughter",
+            "link": "https://youtu.be/_6Khy4wTv5I?si=rwnxTNjJLLWP4Bdw",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "tiredfish",
+            "link": "https://youtu.be/NQSk8y20_No?si=co5VtuDx-oF76Drg",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "wPopoff",
+            "link": "https://www.youtube.com/watch?v=YF_ZoR57QN8",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "lenii",
+            "link": "https://youtu.be/K1qyCUfVUDU?si=2t7bfpt0lawScm8s",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

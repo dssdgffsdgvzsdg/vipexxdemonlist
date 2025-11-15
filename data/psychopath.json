@@ -1,0 +1,24 @@
+{
+    "id": 103925676,
+    "name": "PSYCOPATH",
+    "author": "DeniPol",
+    "creators": [],
+    "verifier": "Superjavicon",
+    "verification": "https://youtu.be/q4mBtXVRFfc?si=RjQTHPVhwKBOfB1P",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Kole",
+            "link": "https://youtu.be/LviHjsnUlJU?si=FunOZgf9BYBSagza&t=268",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "wPopoff",
+            "link": "https://www.youtube.com/watch?v=dfhF7h2_OT4",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

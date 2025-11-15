@@ -1,0 +1,48 @@
+{
+    "id": 110500920,
+    "name": "The Yangire",
+    "author": "Dorami",
+    "creators": ["DHaner","Jenkins","Dorami","Yoonsrdynamix","Master X","TheElectro","Astraa","JonathanGD","Xaro","Spectex","iIBonIi","Partition","MaxyLAND","DeniPol","matty2003","Mercury","BurritoGamerX","Alderite","Buragoz","Synd","DavJT","Mulpan","Enzore","Zakfiel7"],
+    "verifier": "Superjavicon",
+    "verification": "https://youtu.be/8vfJFwXNDqI?si=ZgfG9NWLB_oJwruk",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "stillsouless",
+            "link": "https://youtu.be/_lh3TCKUtLE?si=z3wIq7A3xqWfjLRx",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Cuatrocientos",
+            "link": "https://youtu.be/_9ND9rG3iCU?si=K7IQzcmSMyJcQqSf",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "cudby",
+            "link": "https://youtu.be/BiFcqlEtBHg?si=OdMiNUR7f0YOl72Z",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "wPopoff",
+            "link": "https://www.youtube.com/watch?v=7iFyGykEs_o",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Slaughter",
+            "link": "https://youtu.be/6XLMmTptKT0?si=ZIkllvlLz9aUX_kV",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Beastular",
+            "link": "https://www.youtube.com/watch?v=wPVHh-s1NkA",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

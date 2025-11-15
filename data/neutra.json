@@ -1,0 +1,45 @@
+{
+    "id": 88611404,
+    "name": "NEUTRA",
+    "author": "JenkindsGD",
+    "creators": ["Marwec","Ilrell","JenkinsGD"],
+    "verifier": "GuillExprex52",
+    "verification": "https://youtu.be/YU1ZJptUQXw?si=db8ckU3d19xeGyFN",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "stillsouless",
+            "link": "https://youtu.be/_4p5WMNGMZo?si=K3phYMcFzAV_TDET",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Laser",
+            "link": "https://www.youtube.com/watch?v=00KE9WGQNO8",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "kloone",
+            "link": "https://youtu.be/HGJgI71JUlk?si=S5Nh6hJTicV7u_OQ",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "wPopoff",
+            "link": "https://www.youtube.com/watch?v=ttC4sm0vYh8",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "surrounded",
+            "link": "https://youtu.be/YVIlb2f7yp0?si=K1LR88WQmH3VL9hG",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
+
+
+

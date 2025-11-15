@@ -1,0 +1,36 @@
+{
+    "id": 85426437,
+    "name": "Launchpad labyrinth",
+    "author": "Moffe",
+    "creators": [],
+    "verifier": "Wolvez",
+    "verification": "https://youtu.be/3J0UUmHGWaM?si=rLSArlkfpEBuA8L8",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Sevant",
+            "link": "https://youtu.be/nRfHJ_DmDsM?si=fiUdWp_dJJ04zQQd",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "kloone",
+            "link": "https://www.youtube.com/watch?v=7j2NmDdrW3I",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "el terror de los travestis",
+            "link": "https://youtu.be/NKnMa7-XLRs?si=O5OWYayQbRnDdJHE",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "wPopoff",
+            "link": "https://www.youtube.com/watch?v=H--suO5ChVg",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

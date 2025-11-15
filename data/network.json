@@ -1,0 +1,24 @@
+{
+    "id": 95176417,
+    "name": "NETWORK",
+    "author": "Agat3",
+    "creators": ["Agat3","Kaza","theworldforme"],
+    "verifier": "Superjavicon",
+    "verification": "https://youtu.be/eY7ghtoVsw8?si=EwF_6HUluo_R1tgd",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Laser",
+            "link": "https://www.youtube.com/watch?v=HBFDhchto0o",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "tiredfish",
+            "link": "https://youtu.be/ZqqyhK-TJbs?si=pgwWg71h49kA2gaY",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

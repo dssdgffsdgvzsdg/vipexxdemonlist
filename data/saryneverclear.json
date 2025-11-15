@@ -1,0 +1,72 @@
+{
+    "id": 33498127,
+    "name": "SARY NEVER CLEAR",
+    "author": "Kugelblitz",
+    "creators": ["Kugelblitz", "xNorth", "Eyeris", "Optic Sunflow", "Cypher"],
+    "verifier": "stillsouless",
+    "verification": "https://www.youtube.com/watch?v=IcKUl8fhTeo",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Laser",
+            "link": "https://www.youtube.com/watch?v=VADyv46DocM",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "GGonop",
+            "link": "https://www.youtube.com/watch?v=8ZxYHHexQwc",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "kloone",
+            "link": "https://www.youtube.com/watch?v=RheP2IlNWUw",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "wPopoff",
+            "link": "https://www.youtube.com/watch?v=AuMUrBZOc7s",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "bims",
+            "link": "https://youtu.be/74_cPpINeCI?si=XTGZP45p00M4qC7z",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "ColossalOrange",
+            "link": "https://youtu.be/bxXb9V_aJOQ?si=AqegQZXlNME7YoNU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "el terror de los travestis",
+            "link": "https://youtu.be/rYO1zv0fBbA?si=qbresSB-RCr4itTz",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "spcreat",
+            "link": "https://youtu.be/RUZKUlCbMcc?si=bF5qaOyBmkM7oSLx",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Wolvez",
+            "link": "https://youtu.be/OGBy-8ZcG3M?si=cy5OeB2EYzAuv9Io",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Slaughter",
+            "link": "https://youtu.be/bu3E9sw1rx0?si=LGYxZJU7BWFj-nRG",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

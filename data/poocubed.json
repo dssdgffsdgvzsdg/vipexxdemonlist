@@ -1,0 +1,90 @@
+{
+    "id": 85133223,
+    "name": "poocubed",
+    "author": "Lisp",
+    "creators": ["Aespha", "Lisp", "Faraox", "TypicalGMD", "Aranda", "ph0", "Earthum"],
+    "verifier": "Superjavicon",
+    "verification": "https://www.youtube.com/watch?v=GfEoYFEtLvI",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "AlecZD",
+            "link": "https://www.youtube.com/watch?v=dMqu9brkXww",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "kloone",
+            "link": "https://www.youtube.com/watch?v=3_adREFVDUg",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Vorten",
+            "link": "https://www.youtube.com/watch?v=xASnyz5MFDI",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "GGonop",
+            "link": "https://www.youtube.com/watch?v=xHPfJqa-61A",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "wPopoff",
+            "link": "https://www.youtube.com/watch?v=RxcoX31PEKQ",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "ROZE",
+            "link": "https://www.youtube.com/watch?v=KtKSYlYov98",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "cudby",
+            "link": "https://www.youtube.com/watch?v=cl_34hj8L5g",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "moliklee",
+            "link": "https://www.youtube.com/watch?v=jUtq7ofy7es",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "mariner",
+            "link": "https://youtu.be/ms5xPzWFNYQ?si=8LfRqbCNzuQfiFk4",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "fallen",
+            "link": "https://youtu.be/G5ZmxyrkTWc?si=h3UGMjlY0hR52fWn",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "ColossalOrange",
+            "link": "https://youtu.be/ptO1ZlcVh9o?si=IaeLtbyEC3TZ4oMz",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Mizukii",
+            "link": "https://youtu.be/R37hR8-SPSc?si=cwmGF1L6rEPNrVb6",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Serpentical",
+            "link": "https://youtu.be/0YwdEluuvZ4?si=SsXqnSYiExCLEHIW",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

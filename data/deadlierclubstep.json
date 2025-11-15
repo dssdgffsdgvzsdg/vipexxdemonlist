@@ -1,0 +1,36 @@
+{
+    "id": 96314787,
+    "name": "Deadlier Clubstep",
+    "author": "herozombie80",
+    "creators": ["x2k","solarion","pla","nab","Realvet","CloverPhoenix","valentine","NK Snap","Caro","herozombie80"],
+    "verifier": "Jenath",
+    "verification": "https://youtu.be/eRhgaF0r5Q0?si=gxML99ZGXo2dK_Gf",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "GGonop",
+            "link": "https://www.youtube.com/watch?v=sXVCQTFWnzQ",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "GuillExprex52",
+            "link": "https://youtu.be/VLavzqmInSA?si=MR0nlM4goKLO2ETw",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "wPopoff",
+            "link": "https://www.youtube.com/watch?v=eN2V6_135GU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Mizukii",
+            "link": "https://youtu.be/JcickbEAQ14?si=ULgUfmNetrPquwQC",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

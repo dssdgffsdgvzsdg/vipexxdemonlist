@@ -1,0 +1,24 @@
+{
+    "id": 97364686,
+    "name": "Lithium",
+    "author": "l4tezk",
+    "creators": ["At424", "ked", "Aleph", "Flaksy", "kekis", "Lepuska", "Manheadrambo", "Novaach", "TrueInverse", "Xenote", "RpgRaketti", "l4tezk", "DreamZoneGD", "ArtsiBurn", "Goob", "copc", "valentine", "Darksive", "LapoGD", "xVainaja", "Cookieszs", "kloone"],
+    "verifier": "kloone",
+    "verification": "https://youtu.be/mvBPeefG-a0?si=E3xMuT9A7ntd_hcm",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Cuatrocientos",
+            "link": "https://youtu.be/JBnrnELlLu4?si=E54do6yxSQN8hTGV",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Arouvis",
+            "link": "https://youtu.be/xinpQLSMuYA?si=UlB23oTT-PnDWEjf",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

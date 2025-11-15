@@ -1,0 +1,50 @@
+{
+    "id": 88136707,
+    "name": "Sky Shredder",
+    "author": "Dorvict",
+    "creators": ["Dorvict"],
+    "verifier": "Superjavicon",
+    "verification": "https://youtu.be/prUyPyEKRGE?si=tj8SJApTvU_ut-j4",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Cuatrocientos",
+            "link": "https://youtu.be/jU_RLD6zMeY?si=YTg-PJW7SGR71Cy8",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "A6",
+            "link": "https://youtu.be/jWH8nMUCS6E?si=z3BxX3hPIirDNptM",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "GGonop",
+            "link": "https://www.youtube.com/watch?v=82PBDHqO8v4",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "tiredfish",
+            "link": "https://youtu.be/311s2N5Ci0A?si=0AaYPQxerNm4vtta",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Arouvis",
+            "link": "https://youtu.be/x3nuHVCjuQ4?si=WuCR3CmdcmBCxSyg",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Slaughter",
+            "link": "https://youtu.be/vrynVMJwcaQ?si=Qio-C490ioUscdVB",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
+
+

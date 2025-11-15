@@ -1,0 +1,78 @@
+ {
+ "id": 79997992,
+    "name": "Shardscapes",
+    "author": "ItzKiba",
+    "creators": [],
+    "verifier": "Wolvez",
+    "verification": "https://youtu.be/WH-AlZbkXnQ?si=j1TSKR5w8QfM0ixV",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "bims",
+            "link": "https://www.youtube.com/watch?v=dY6ao3oKz64",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Kole",
+            "link": "https://www.youtube.com/watch?v=6pI6enyhYgc",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "AlecZD",
+            "link": "https://www.youtube.com/watch?v=aLoph7hhYh8",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Knicide",
+            "link": "https://www.youtube.com/watch?v=pvqJinJABuI",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "ralex",
+            "link": "https://www.youtube.com/watch?v=M1thKWclQP0",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "LuckyNS",
+            "link": "https://www.youtube.com/watch?v=7wvZ2RJXLlA",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Gamingbyte",
+            "link": "https://www.youtube.com/watch?v=_MzqoDDWUzY",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Laser",
+            "link": "https://www.youtube.com/watch?v=9O8WfShu7ao",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Poldo",
+            "link": "https://www.youtube.com/watch?v=Hq9c5G1wu6s",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "el terror de los travestis",
+            "link": "https://youtu.be/xX8JYDbF3Qk?si=Rkk9RojOp1qbpDZA",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "spcreat",
+            "link": "https://youtu.be/dgJ4xumJ0dg?si=ItSKyaeU27CEGCTa",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+ }

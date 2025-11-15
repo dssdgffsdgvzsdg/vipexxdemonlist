@@ -1,0 +1,66 @@
+{
+    "id": 90390075,
+    "name": "Solar Flare",
+    "author": "Lin",
+    "creators": ["Lin", "Rynoxious"],
+    "verifier": "swiborg",
+    "verification": "https://youtu.be/eHQNgty8ypY",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Cuatrocientos",
+            "link": "https://youtu.be/_BKXvJZiGVY?si=uCeTtMsX9wrna9e4",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Teno",
+            "link": "https://youtu.be/LKFqNT-qIGE?si=pZv2b6NJLns8_k9F",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Vorten",
+            "link": "https://www.youtube.com/watch?v=b2-7s3YIPD4",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "wPopoff",
+            "link": "https://www.youtube.com/watch?v=cxbEiSpbVg8",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "seels55",
+            "link": "https://www.youtube.com/watch?v=5q50-NTrbWI",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Superjavicon",
+            "link": "https://youtu.be/PnS_TVWFYMI?si=LQ6rcWrWd_0blVlL",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "cudby",
+            "link": "https://youtu.be/DjwZNJydgYg?si=tF84Nq5aHBSjeoG6",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "moliklee",
+            "link": "https://www.youtube.com/watch?v=tHELSBa1uBU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "ColossalOrange",
+            "link": "https://youtu.be/VDRjvxluYII?si=5fOol9fqb3jQhJHY",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

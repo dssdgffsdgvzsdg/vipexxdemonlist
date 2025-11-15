@@ -1,0 +1,66 @@
+{
+    "id": 91351939,
+    "name": "Tunnel of Despair",
+    "author": "Exen",
+    "creators": ["ImMaxX1", "Exen"],
+    "verifier": "wPopoff",
+    "verification": "https://www.youtube.com/watch?v=dj_HNqcwxQ0",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "A6",
+            "link": "https://youtu.be/J76q9MT3K5I?si=1zPeriIJP-f9-ulP",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "GuillExprex52",
+            "link": "https://youtu.be/PhlND5zfwpE?si=3esNeD2vKVwSRgbj",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Abdieldevil",
+            "link": "https://youtu.be/5QmQS9Kc4IQ?si=XuEffMzxeYeFMELd",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "SerVax",
+            "link": "https://youtu.be/9LBSZrtBJh8?si=iWcwEFCnw6TWTZml",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Vorten",
+            "link": "https://www.youtube.com/watch?v=yGAoRsf74nk",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Laser",
+            "link": "https://www.youtube.com/watch?v=oMpnE558rog",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "moliklee",
+            "link": "https://www.youtube.com/watch?v=b1m3VHxgt6s",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "ROZE",
+            "link": "https://youtu.be/hiU1btzwjEA?si=C4B4zAetC-7Njrpk",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Serpentical",
+            "link": "https://youtu.be/5IotMZMs-xc?si=a_b1CzdroOAJLe3z",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

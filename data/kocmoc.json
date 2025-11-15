@@ -1,0 +1,54 @@
+{
+    "id": 87665224,
+    "name": "KOCMOC",
+    "author": "cherryteam",
+    "creators": [],
+    "verifier": "GuillExprex52",
+    "verification": "https://www.youtube.com/watch?v=QW7cRfMmAT8",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "SerVax",
+            "link": "https://www.youtube.com/watch?v=llkHaetgdb0",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "kloone",
+            "link": "https://www.youtube.com/watch?v=nTjwyENv86M",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Abdieldevil",
+            "link": "https://www.youtube.com/watch?v=To5Jznz-ORY",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "wPopoff",
+            "link": "https://www.youtube.com/watch?v=HZaJ16aGkqo",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "moliklee",
+            "link": "https://www.youtube.com/watch?v=2m0BYw5ykiU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "ROZE",
+            "link": "https://www.youtube.com/watch?v=Glmgytqy-qI",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Serpentical",
+            "link": "https://youtu.be/aEpAn4mvA6o?si=s6ZyIlc511c9mC89",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

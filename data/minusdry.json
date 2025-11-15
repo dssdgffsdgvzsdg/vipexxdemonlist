@@ -1,0 +1,78 @@
+{
+    "id": 89414220,
+    "name": "MINUSdry",
+    "author": "CDMusic",
+    "creators": ["CDMusic","Varium","Sevant"],
+    "verifier": "moliklee",
+    "verification": "https://www.youtube.com/watch?v=3lY4204abcU",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "SerVax",
+            "link": "https://youtu.be/mBE5ueFopLc?si=SdSH_NUOL2jnS69N",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "cudby",
+            "link": "https://youtu.be/YCHdsH2_VF0?si=DNIsvUxwwFJoLufE",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "wPopoff",
+            "link": "https://www.youtube.com/watch?v=R_FoKoKtvko",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "GGonop",
+            "link": "https://www.youtube.com/watch?v=_hu8QFsAn4Q",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Vorten",
+            "link": "https://www.youtube.com/watch?v=38LSmkba0BM",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "kloone",
+            "link": "https://youtu.be/jzRqX43-R6k?si=vaXjFdT5j25pqmsA",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "A6",
+            "link": "https://youtu.be/xAi8GMT2ruc?si=j2TCwkJrD3-MglRp",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "fallen",
+            "link": "https://youtu.be/YeUQVQq5eA0?si=MCVNKDGW6cF4ai77",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "ColossalOrange",
+            "link": "https://youtu.be/EnOyiDc4YLo?si=3M8d54_bhxzVc4Iw",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Mizukii",
+            "link": "https://youtu.be/DuNO2o8cc4M?si=qrPtA62zytUqDwg6",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Serpentical",
+            "link": "https://youtu.be/zgQutfo33U8?si=ZIrMbXmplES0N29r",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

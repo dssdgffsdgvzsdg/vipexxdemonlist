@@ -1,0 +1,54 @@
+{
+    "id": 86018142,
+    "name": "Kyouki",
+    "author": "Demishio",
+    "creators": [],
+    "verifier": "Zeroxy",
+    "verification": "https://youtu.be/JB6Q_2LJ5MI?si=YwKLgRsK0EDq3WSQ",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "kloone",
+            "link": "https://youtu.be/_6Wdjcqx6eE?si=ACsLnNhnwzZip4C6",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Vorten",
+            "link": "https://www.youtube.com/watch?v=bNXDvQlt9v0",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "lenii",
+            "link": "https://youtu.be/CLauq0M37bM?si=SWx-vL0Nt8-6AIIi",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "wPopoff",
+            "link": "https://www.youtube.com/watch?v=oSPYRNZLdxs",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Laser",
+            "link": "https://www.youtube.com/watch?v=7vroP9-v4vM",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Mizukii",
+            "link": "https://youtu.be/AOhCgnVFf3k?si=xi7ooaj5bXQ06E1U",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "swiborg",
+            "link": "https://youtu.be/mlZyfBmuw0E?si=0b3jIeGaCg5xFljd",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

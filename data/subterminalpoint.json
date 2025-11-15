@@ -1,0 +1,24 @@
+{
+    "id": 113599729,
+    "name": "Subterminal Point",
+    "author": "SyQual",
+    "creators": [],
+    "verifier": "GGonop",
+    "verification": "https://www.youtube.com/watch?v=Ulz-vrwuTn8",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Brumik",
+            "link": "https://www.youtube.com/watch?v=Q8sKS-psswI",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "wPopoff",
+            "link": "https://www.youtube.com/watch?v=wve1ls-pQR0",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

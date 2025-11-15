@@ -1,0 +1,30 @@
+{
+    "id": 90891227,
+    "name": "Coral Cave",
+    "author": "JenkindsGD",
+    "creators": ["Gnamolor","AWESOMEME360"],
+    "verifier": "Cuatrocientos",
+    "verification": "https://www.youtube.com/watch?v=mKykd8OwZCk",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Arouvis",
+            "link": "https://www.youtube.com/watch?v=C9Nur3Ir36U",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "tiredfish",
+            "link": "https://www.youtube.com/watch?v=Ye5kH5SnRfk",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Slaughter",
+            "link": "https://youtu.be/_HlDa0SX_sE?si=0VldjRiFVJxPySUi",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

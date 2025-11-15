@@ -1,0 +1,34 @@
+{
+    "id": 88442157,
+    "name": "Critical Heat",
+    "author": "Zeniux",
+    "creators": ["ZeusGD","Zeniux"],
+    "verifier": "SuperJavicon",
+    "verification": "https://youtu.be/Ksrj5h7ucmI?si=MtQyoTtY0Cq1ALdc",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [ 
+        {
+            "user": "Laser",
+            "link": "https://www.youtube.com/watch?v=lWrLdxPQN-c",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "wPopoff",
+            "link": "https://www.youtube.com/watch?v=opOieWMqasE",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Mizukii",
+            "link": "https://youtu.be/QvoJjIOTDT0?si=4tIAWM_QgBPms4hG",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
+
+
+
+

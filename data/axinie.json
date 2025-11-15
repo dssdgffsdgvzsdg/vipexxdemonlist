@@ -1,0 +1,30 @@
+{
+    "id": 116174063,
+    "name": "Axinie",
+    "author": "SaturMan",
+    "creators": [],
+    "verifier": "kloone",
+    "verification": "https://www.youtube.com/watch?v=TmdQc-4CGH0",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "GGonop",
+            "link": "https://www.youtube.com/watch?v=VBla-m6y6wM",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Serpentical",
+            "link": "https://youtu.be/BezBNTCWoII?si=C3w5Gfn1oISnh8-g",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "wPopoff",
+            "link": "https://www.youtube.com/watch?v=y4RdanfS_I0",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

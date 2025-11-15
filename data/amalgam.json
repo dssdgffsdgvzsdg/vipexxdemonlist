@@ -1,0 +1,66 @@
+{
+    "id": 95675702,
+    "name": "Amalgam",
+    "author": "XLSpiral",
+    "creators": [],
+    "verifier": "Wooshi",
+    "verification": "https://youtu.be/82DDR2BjXSI",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "surrounded",
+            "link": "https://youtu.be/n41uMWDkZoc?si=N1gUTnaTwiBkKraW",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "kloone",
+            "link": "https://youtu.be/9MVJtq0GNqs?si=uB5_BmFLiKGBgL3p",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Superjavicon",
+            "link": "https://youtu.be/s9fxOpBO4mo?si=LwsO06x8yEz-QsPm",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Laser",
+            "link": "https://youtu.be/1VzYRAtnrG0?si=Jc2SBc0qQHbjFbiW",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "wPopoff",
+            "link": "https://www.youtube.com/watch?v=2ZSiQWo2Io8",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Slaughter",
+            "link": "https://youtu.be/hNY-CemX43I?si=WWtH6NS0oiJ9pYvy",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "ColossalOrange",
+            "link": "https://youtu.be/cTpDnG1w37Q?si=5wWHukMvOWmy7TlA",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Sevant",
+            "link": "https://youtu.be/aQxvDwPynMc?si=clMMXapc4XdO10wp",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Serpentical",
+            "link": "https://youtu.be/32k7QT-IkgA?si=roEZJ5jc5szfAbhh",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

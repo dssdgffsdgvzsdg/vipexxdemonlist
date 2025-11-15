@@ -1,0 +1,18 @@
+{
+    "id": 82606722,
+    "name": "The Art of the Blade",
+    "author": "mbed",
+    "creators": ["sink", "mbed", "Toomis", "Zoroa", "talia", "kr1t", "SpKale", "Subwoofer"],
+    "verifier": "AlecZD",
+    "verification": "https://youtu.be/44G_FiHhdlA?si=SA69h_a3IcG9EYQa",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Jenath",
+            "link": "https://youtu.be/RZk5VwXnAeI?si=Jn67krzTrwltL2fR",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

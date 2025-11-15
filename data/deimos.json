@@ -1,0 +1,48 @@
+{
+    "id": 93091893,
+    "name": "Deimos",
+    "author": "ItzHybrid",
+    "creators": [],
+    "verifier": "Laser",
+    "verification": "https://www.youtube.com/watch?v=ADfzPvEbK_4",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "DoSh7t",
+            "link": "https://www.youtube.com/watch?v=oWF8SsmUo-0",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "kloone",
+            "link": "https://www.youtube.com/watch?v=S26s5LvhRmM",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "wPopoff",
+            "link": "https://www.youtube.com/watch?v=pWGCJ596v8I",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Vorten",
+            "link": "https://www.youtube.com/watch?v=Lz8thDPWy0c",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "SerVax",
+            "link": "https://www.youtube.com/watch?v=INd7zHDtaj0",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Superjavicon",
+            "link": "https://www.youtube.com/watch?v=0XGFpJbY3OA",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

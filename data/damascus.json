@@ -1,0 +1,24 @@
+{
+    "id": 93339534,
+    "name": "Damascus",
+    "author": "Dzeser",
+    "creators": ["Rob Buck", "Alter", "Oskux", "Logik", "Megaman9", "Flaksy", "TheTrueEclipse", "GDSkele", "LIEB", "Jo2000", "Fury0313", "Dasher3000", "PG1004", "Metsho", "Dorami", "Blitzmister", "Findexi", "Avery", "Tygrysek", "Nahuel2998", "Toxic", "Dzeser", "IronDofus435", "Platnnu", "Allan", "Kazia", "Kruso", "xSmokes", "Nickil202", "Ozik", "iBlade", "VERSU5", "Jeyzor", "Koolboom", "vArctic99", "KFAOpitar", "Brittank88", "Adiale", "Surv", "Inactive", "Chromatik", "TDChris02", "Disp", "JaredKawaii", "Wod", "Obsidium", "Lassiboil", "Loogiah", "ErisethSP", "PhantomX", "NorCda", "TheJosiahTurner", "Ninetales", "ILRELL", "weoweoteo", "AlrexX", "Dehznik", "fin", "FozaeKitty", "Yozyo", "WhitePythor", "Megantwoo", "AirForce", "SuperSNSD", "Cookieszs", "Gusearth", "Wolfstar", "Thomartin", "Mazl"],
+    "verifier": "stillsouless",
+    "verification": "https://youtu.be/hInpAbtv1mE?si=RcLYtLksxTAZ3ZUH",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Superjavicon",
+            "link": "https://youtu.be/Z0ckSiGHVNc?si=9Lk2E1KAJoqsCd1E",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "wPopoff",
+            "link": "https://www.youtube.com/watch?v=Qjl80r4X-f8",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

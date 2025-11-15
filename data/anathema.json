@@ -1,0 +1,42 @@
+ {
+ "id": 112313819,
+    "name": "Anathema",
+    "author": "nikrodox",
+    "creators": ["GD Iris", "TMco", "nikroplays", "ItsHybrid", "Eternaswip", "Zipixbox"],
+    "verifier": "A6",
+    "verification": "https://www.youtube.com/watch?v=BL7h6xAjq-E",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "SerVax",
+            "link": "https://www.youtube.com/watch?v=gxp3BclgjBc",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Gokill",
+            "link": "https://www.youtube.com/watch?v=fF8CZ-R1xwk",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "ROZE",
+            "link": "https://www.youtube.com/watch?v=Ih8BaOXc1QE",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "wPopoff",
+            "link": "https://www.youtube.com/watch?v=kVBz9ogtL6g",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Serpentical",
+            "link": "https://www.youtube.com/live/y3g6xhYwkmg?si=Z0pWws9es464zegH&t=7853",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+ }

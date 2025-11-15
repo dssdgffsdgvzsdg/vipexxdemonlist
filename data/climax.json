@@ -1,0 +1,42 @@
+{
+    "id": 95049815,
+    "name": "Climax",
+    "author": "HushLC",
+    "creators": ["Wain","HushLC"],
+    "verifier": "Superjavicon",
+    "verification": "https://youtu.be/zQNwGj0h3X0?si=lzQjWk_uXfcPBAsz",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Slaughter",
+            "link": "https://youtu.be/FZNlc2d5ZW4?si=Bql0k-Or4TQQRBdi",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "moliklee",
+            "link": "https://www.youtube.com/watch?v=0Nx2Shwb6YI",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "wPopoff",
+            "link": "https://www.youtube.com/watch?v=FpGydc3fu8E",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Vorten",
+            "link": "https://www.youtube.com/watch?v=4x3erfVwxao",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Laser",
+            "link": "https://www.youtube.com/watch?v=s7oDatw8pP8",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

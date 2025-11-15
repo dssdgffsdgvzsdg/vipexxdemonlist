@@ -1,0 +1,24 @@
+{
+    "id": 75813671,
+    "name": "Lotus Flower",
+    "author": "⁨StarkytheSalad⁩",
+    "creators": [],
+    "verifier": "bims",
+    "verification": "https://www.youtube.com/watch?v=p4yix0pjocs",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Laser",
+            "link": "https://www.youtube.com/watch?v=E4Q2L_0eOlA",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Arouvis",
+            "link": "https://youtu.be/hC2Wpn7lfd8?si=lEpbQW4vm1uQ0Euj",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

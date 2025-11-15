@@ -1,0 +1,44 @@
+{
+    "id": 94578424,
+    "name": "Trotil",
+    "author": "cherryteam",
+    "creators": ["Ani","Inex", "CHILLI", "eggephant", "postcodeFF", "Val'GO", "SpritZ", "Feron", "Lit", "Vonxi"],
+    "verifier": "Teno",
+    "verification": "https://youtu.be/zRM1ju6Lj6g?si=GOiR1TXMJBZPatUE",
+    "percentToQualify": "100",
+    "password": "001441",
+    "records": [
+        {
+            "user": "SuperJavicon",
+            "link": "https://youtu.be/4BC3ZOERZuI?si=Xs5-rSgFG9bTjZtE",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Slaughter",
+            "link": "https://youtu.be/xO0GLgtRVec?si=UwmLa83b-J1F6jes",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "wPopoff",
+            "link": "https://www.youtube.com/watch?v=RjFKewIhCdE",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "GuillExprex52",
+            "link": "https://youtu.be/5N4Egs-0b7w?si=9gmZVwCZGFkJKnDd",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Kole",
+            "link": "https://youtu.be/DqoK-Qk2DFA?si=2Nv63P43lK0Lrr8M",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
+
+

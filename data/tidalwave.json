@@ -1,0 +1,24 @@
+{
+    "id": 86407629,
+    "name": "Tidal Wave",
+    "author": "OniLinkGD",
+    "creators": [],
+    "verifier": "wPopoff",
+    "verification": "https://www.youtube.com/watch?v=mxR1JQmQyrc",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "A6",
+            "link": "https://www.youtube.com/watch?v=gmWPsZ_g_O4",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "SerVax",
+            "link": "https://www.youtube.com/watch?v=alp09R3eG_4",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
